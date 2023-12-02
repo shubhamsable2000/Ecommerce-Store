@@ -1,0 +1,49 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+# dotenv environment variables file
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# npm
+npm-debug.log*
+*.npm
+*.lock
+
+# Exclude specific large file
+node_modules/@next/swc-darwin-arm64/next-swc.darwin-arm64.node
